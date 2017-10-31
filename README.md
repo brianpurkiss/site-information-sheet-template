@@ -19,8 +19,9 @@ This is a template site information sheet. Keep actual site information sheets s
 * SSL: yes/no
 * FTP Credentials:
 
-* Login info for any relevant third party services:
+**Other**
 
+* Login info for any relevant third party services:
 * Any relevant additional unique information about the site:
 
 
@@ -38,5 +39,7 @@ This is a template site information sheet. Keep actual site information sheets s
 * Host's Name:
 * Hosting Credentials:
 * FTP Credentials:
+
+**Other**
 
 * Any relevant additional unique information about the site:
