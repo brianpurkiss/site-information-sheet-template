@@ -2,20 +2,21 @@ A site information sheet is a useful internal document for development agencies.
 
 This is a template site information sheet. Keep actual site information sheets stored in a secure location such as [1Password](https://1password.com/) or [LastPass](https://www.lastpass.com/), or do not include login information on it.
 
---
-
 ## Live Site Info
+
+**CMS**
 
 * URL:
 * CMS:
 * Login Credentials:
+
+**Hosting**
 
 * Domain Registrar:
 * Host's Name:
 * Hosting Credentials:
 * Nameservers or A Records: (if unique)
 * SSL: yes/no
-
 * FTP Credentials:
 
 * Login info for any relevant third party services:
@@ -25,14 +26,17 @@ This is a template site information sheet. Keep actual site information sheets s
 
 ## Dev Site Info
 
+**CMS**
+
 * URL:
 * CMS:
 * Login Credentials:
 
+**Hosting**
+
 * Domain Registrar:
 * Host's Name:
 * Hosting Credentials:
-
 * FTP Credentials:
 
 * Any relevant additional unique information about the site:
